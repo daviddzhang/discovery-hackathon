@@ -35,7 +35,7 @@
     "express-secure-only": "^0.2.1",
     "google-trends-api": "^4.9.0",
     "helmet": "^3.21.2",
-    "ibm-watson": "^5.1.0",
+    "ibm-watson": "^8.0.0",
     "moment": "^2.24.0",
     "morgan": "^1.9.1",
     "prop-types": "^15.7.2",
